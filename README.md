@@ -3,7 +3,7 @@ Control of the program Personal Communications I Series Access for windows throu
 
 Prueba de Ejecución:
 
-![Imgur](https://i.imgur.com/Ip28SCC.gifv)
+![Imgur](https://i.imgur.com/M9RDU8Z.gif)
 
 
 Prerrequisitos (solo para windows 7 - 10):
@@ -31,11 +31,11 @@ Instrucciones:
 
 * Abrir el programa Personal Communications iSeries Access para Windows y loguearse, desplazarse hasta la busqueda de informacion de clientes en base al codigo (depende del programa).
 
-![Imgur4](https://i.imgur.com/JS9F7k8.png)
+![Imgur4](https://i.imgur.com/3Zgbsoo.png)
 
 * Digitar codigos a buscar, seleccionar los codigos en la tabla y ejecutar la macro.
 
-![Imgur](https://i.imgur.com/Ip28SCC.gifv)
+![Imgur](https://i.imgur.com/M9RDU8Z.gif)
 
 nota:
 La seleccion puede ser uno o varios elementos y soporta tambien elementos solo de un filtro especificado (previamente se deben filtrar los datos de la tabla en excel y unicamnete ejecutara la macro a la seleccion sin considerar filas ocultas).
