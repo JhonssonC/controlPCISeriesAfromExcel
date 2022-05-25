@@ -3,7 +3,7 @@ Control of the program Personal Communications I Series Access for windows throu
 
 Prueba de Ejecución:
 
-![Imgur](https://i.imgur.com/Ip28SCC.gifv)
+![Imgur](https://i.imgur.com/Ip28SCC.gif)
 
 
 Prerrequisitos (solo para windows 7 - 10):
@@ -35,7 +35,7 @@ Instrucciones:
 
 * Digitar codigos a buscar, seleccionar los codigos en la tabla y ejecutar la macro.
 
-![Imgur](https://i.imgur.com/Ip28SCC.gifv)
+![Imgur](https://i.imgur.com/Ip28SCC.gif)
 
 nota:
 La seleccion puede ser uno o varios elementos y soporta tambien elementos solo de un filtro especificado (previamente se deben filtrar los datos de la tabla en excel y unicamnete ejecutara la macro a la seleccion sin considerar filas ocultas).
