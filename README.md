@@ -1,43 +1,45 @@
 # controlPCISeriesAfromExcel
 Control of the program Personal Communications I Series Access for windows through macro programmed in excel with VBA.
 
+Prueba de Ejecución:
 
-Execution Test:
-
-![Imgur](https://i.imgur.com/Ip28SCC.gif)
+![Imgur](https://i.imgur.com/Ip28SCC.gifv)
 
 
-Prerequisites (only for windows 7 - 10):
-Office 2012-2019 (32-bit)
-Personal Communications iSeries Access for Windows
+Prerrequisitos (solo para windows 7 - 10):
+Office 2012-2019 (32 bits)
+Personal Communications iSeries Access para Windows
 
-Instructions:
-* Open or create a macro-enabled Excel file.
-* Create a table of contents to a specific sheet called VAR
+Instrucciones:
+* Abrir o crear un archivo Excel habilitado para macros.
+* Cree una tabla de contenidos a una hoja especifica llamada VAR
 
 ![Imgur1](https://i.imgur.com/w8SWzkm.png)
 
-* Import the .bas module
+* Importe el modulo .bas
 
 ![Imgur2](https://i.imgur.com/doXrknC.png)
 
-* In another Sheet (it can be Sheet1) build the following table in an empty sheet, paying special attention to the columns specified in the VAR sheet in the previous step, the columns must match the headers, not textually, but they must be the data that is specified on the VAR sheet.
+
+* En otra Hoja (puede ser Hoja1) construya en una hoja vacia la siguiente tabla poniendo especial atencion a las columnas especificadas en la hoja VAR en el paso anterior las columnas deben concordar con los encabezados, no textualmente pero si deben ser los datos que se especificaron el la hoja VAR.
+
 
 ![Imgur3](https://i.imgur.com/rhakXs7.png)
 
-* The data object of search are the codes, these are taken as a reference to locate the rest of the data in the system based on a specific logic of pressing keys and obtaining data.
 
-* Open the Personal Communications iSeries Access for Windows program and log in, navigate to the search for customer information based on the code (depends on the program).
+* Los datos objeto de busqueda son los codigos, estos se toman como referencia para ubicar el resto de datos en el sistema en base a una logica especifica de pulsacion de teclas y obtencion de datos.
+
+* Abrir el programa Personal Communications iSeries Access para Windows y loguearse, desplazarse hasta la busqueda de informacion de clientes en base al codigo (depende del programa).
 
 ![Imgur4](https://i.imgur.com/JS9F7k8.png)
 
-* Enter codes to search, select the codes in the table and execute the macro.
+* Digitar codigos a buscar, seleccionar los codigos en la tabla y ejecutar la macro.
 
-![Imgur](https://i.imgur.com/Ip28SCC.gif)
+![Imgur](https://i.imgur.com/Ip28SCC.gifv)
 
-note:
-The selection can be one or several elements and it also supports elements only from a specified filter (previously the table data must be filtered in excel and it will only execute the macro on the selection without considering hidden rows).
+nota:
+La seleccion puede ser uno o varios elementos y soporta tambien elementos solo de un filtro especificado (previamente se deben filtrar los datos de la tabla en excel y unicamnete ejecutara la macro a la seleccion sin considerar filas ocultas).
 
 
-Bibliography:
-https://www.ibm.com/docs/en/personal-communications/12.0?topic=sseq5y-12-0-0-com-ibm-pcomm-doc-books-html-host-access08-htm
+Bibliografia:
+https://www.ibm.com/docs/es/personal-communications/12.0?topic=sseq5y-12-0-0-com-ibm-pcomm-doc-books-html-host-access08-htm
