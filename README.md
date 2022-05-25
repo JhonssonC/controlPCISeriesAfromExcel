@@ -4,7 +4,7 @@ Control of the program Personal Communications I Series Access for windows throu
 
 Execution Test:
 
-![Imgur](https://i.imgur.com/Ip28SCC.gif)
+![Imgur](https://i.imgur.com/M9RDU8Z.gif)
 
 
 Prerequisites (only for windows 7 - 10):
@@ -29,11 +29,11 @@ Instructions:
 
 * Open the Personal Communications iSeries Access for Windows program and log in, navigate to the search for customer information based on the code (depends on the program).
 
-![Imgur4](https://i.imgur.com/JS9F7k8.png)
+![Imgur4](https://i.imgur.com/3Zgbsoo.png)
 
 * Enter codes to search, select the codes in the table and execute the macro.
 
-![Imgur](https://i.imgur.com/Ip28SCC.gif)
+![Imgur](https://i.imgur.com/M9RDU8Z.gif)
 
 note:
 The selection can be one or several elements and it also supports elements only from a specified filter (previously the table data must be filtered in excel and it will only execute the macro on the selection without considering hidden rows).
