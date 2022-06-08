@@ -18,7 +18,7 @@ Instrucciones:
 
 * Importe el modulo .bas
 
-![Imgur2](https://i.imgur.com/doXrknC.png)
+![Imgur2](https://i.imgur.com/aSbpjgJ.png)
 
 
 * En otra Hoja (puede ser Hoja1) construya en una hoja vacia la siguiente tabla poniendo especial atencion a las columnas especificadas en la hoja VAR en el paso anterior las columnas deben concordar con los encabezados, no textualmente pero si deben ser los datos que se especificaron el la hoja VAR.
