@@ -19,7 +19,7 @@ Instructions:
 
 * Import the .bas module
 
-![Imgur2](https://i.imgur.com/doXrknC.png)
+![Imgur2](https://i.imgur.com/aSbpjgJ.png)
 
 * In another Sheet (it can be Sheet1) build the following table in an empty sheet, paying special attention to the columns specified in the VAR sheet in the previous step, the columns must match the headers, not textually, but they must be the data that is specified on the VAR sheet.
 
